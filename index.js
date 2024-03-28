@@ -6,3 +6,7 @@ const port = 3000;
 app.get('/', (req,res) => {
     res.send(<h1>trang chủ</h1>)
 })
+
+app.listen(port ,() => {
+    console.log("server is running");
+})
