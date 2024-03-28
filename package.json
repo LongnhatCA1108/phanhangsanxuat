@@ -9,6 +9,7 @@
   "author": "longnhat",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.19.2",
     "expressjs": "^1.0.1"
   }
 }
